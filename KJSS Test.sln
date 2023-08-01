@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KjssAPI", "KjssAPI\KjssAPI.csproj", "{DA461CBC-45CA-416C-B215-A2C85B4253F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KJSSWebApp", "KJSSWebApp\KJSSWebApp.csproj", "{68D88F8A-D379-4F1D-90F5-8CD4BCFAD48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA461CBC-45CA-416C-B215-A2C85B4253F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA461CBC-45CA-416C-B215-A2C85B4253F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA461CBC-45CA-416C-B215-A2C85B4253F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA461CBC-45CA-416C-B215-A2C85B4253F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D88F8A-D379-4F1D-90F5-8CD4BCFAD48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D88F8A-D379-4F1D-90F5-8CD4BCFAD48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D88F8A-D379-4F1D-90F5-8CD4BCFAD48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D88F8A-D379-4F1D-90F5-8CD4BCFAD48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF31A732-EF5C-4EB2-AB22-A7A813A50651}
+	EndGlobalSection
+EndGlobal
